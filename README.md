@@ -77,8 +77,3 @@ A comprehensive B2B e-learning platform developed for both creators and learners
 
 - **AWS Elastic Beanstalk**: Deploy the application by creating an Elastic Beanstalk environment and configuring the environment variables on AWS.  
 - **Render**: Alternatively, deploy the platform on Render for continuous integration and ease of scaling.
-
----
-
-![382560965-37bd4949-a6f0-43e2-9f79-1c0444de2d72](https://github.com/user-attachments/assets/13c7e48d-8c4d-4595-a13e-49b5021e8d26)
-![382560950-58727d61-2aa8-4b5c-8493-f3a802e93362](https://github.com/user-attachments/assets/15757e66-7bfa-49a8-9cd8-46cebebbe2a5)
